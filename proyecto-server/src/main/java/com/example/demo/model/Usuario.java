@@ -20,12 +20,14 @@ public class Usuario {
 	private String password;
 	private int confirmacion_correo;
 	public Usuario() {}
+	/*
 	public String getId() {
 		return this.id;
 	}
 	public void setId(String id) {
 		this.id=id;
-	}
+	}*/
+	
 	public String getUsername() {
 		return username;
 	}
